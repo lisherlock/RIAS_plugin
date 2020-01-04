@@ -1,6 +1,6 @@
 # RIAS Image-Processing Plugin
 RIAS Image processing plugin；
-Version: V1.0
+Version: 1.0
 
 # Using Note:
 Just open file 'radiomics_data_preprocessing_gui.m' and run it in matlab.
