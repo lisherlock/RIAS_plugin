@@ -8,10 +8,8 @@ Or open file 'radiomics_data_preprocessing_gui.m' and 'radiomics_data_preprocess
 
 # About RIAS Image-Processing Plugin:
 Research Used Only！
-
 Have a great time!
 Thanks for using RIAS!
-
 
 # Contact us:
 from author: Mingyang Li  &  Zheng Miao
