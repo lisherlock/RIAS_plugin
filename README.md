@@ -12,7 +12,7 @@ Have a great time!
 Thanks for using RIAS!
 
 # Contact us:
-from author: Mingyang Li  &  Zheng Miao '\n'
+from author: Mingyang Li  &  Zheng Miao 
 email: limyctw@gmail.com;  549936583@qq.com.
 github: https://github.com/lisherlock/RIAS
 website: www.rias.tech
