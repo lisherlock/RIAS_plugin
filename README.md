@@ -7,9 +7,9 @@ Just open file 'radiomics_data_preprocessing_gui.m' and run it in matlab.
 Or open file 'radiomics_data_preprocessing_gui.m' and 'radiomics_data_preprocessing_gui.fig' in the same time in matlab.
 
 # About RIAS Image-Processing Plugin:
-Research Used Only！；
-Have a great time!；
-Thanks for using RIAS!；
+Research Used Only！
+Have a great time!
+Thanks for using RIAS!
 
 # Contact us:
 from author: Mingyang Li  &  Zheng Miao
