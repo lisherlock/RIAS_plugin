@@ -15,6 +15,6 @@ Thanks for using RIAS!
 from author: Mingyang Li  &  Zheng Miao 
 email: limyctw@gmail.com;  549936583@qq.com.
 github: https://github.com/lisherlock/RIAS
-website: http://rais.tech
+website: http://rias.tech
 
 :)
